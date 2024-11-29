@@ -1,5 +1,7 @@
 # Matrix-Determinant
-ALG II Homework 01 - (2. year - winter semester)
+Subject:    Algorithms II
+Type:       Homework 01
+Year:       2. year - winter semester (2024)
 
 
 ## Task
