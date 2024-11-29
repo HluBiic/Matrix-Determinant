@@ -3,8 +3,7 @@
 |-----------------|--------|
 | **Subject** | Algorithms II |
 | **Type** | Homework 01 |
-| **Year** | 2. year (2024) |
-| **Semester** | 3rd - winter |
+| **Year** | 2. year - winter semester (2024) |
 | **Language** | C++ |
 
 
