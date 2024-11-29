@@ -1,6 +1,5 @@
 # Matrix-Determinant
-| Feature         | Value  |
-|-----------------|--------|
+
 | **Subject** | Algorithms II |
 | **Type** | Homework 01 |
 | **Year** | 2. year - winter semester (2024) |
