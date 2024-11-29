@@ -1,4 +1,13 @@
 # Matrix-Determinant
+| Feature         | Value  |
+|-----------------|--------|
+| **Subject** | Algorithms II |
+| **Type** | Homework 01 |
+| **Year** | 2. year (2024) |
+| **Semester** | 3rd - winter |
+| **Language** | C++ |
+
+
 Subject:    Algorithms II
 Type:       Homework 01
 Year:       2. year - winter semester (2024)
