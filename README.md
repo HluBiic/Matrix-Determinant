@@ -1,15 +1,10 @@
 # Matrix-Determinant
-| **Subject** | Algorithms II |
-|:-----------------|:--------|
-| **Type** | Homework 01 |
-| **Year** | 2. year - winter semester (2024) |
-| **Language** | C++ |
+  - **Subject**: *Algorithms II*
+  - **Type**: *Homework 01*
+  - **Year**: *2. year - winter semester (2024)*
+  - **Language**: *C++*
 
-
-Subject:    Algorithms II
-Type:       Homework 01
-Year:       2. year - winter semester (2024)
-
+---
 
 ## Task
 Your task is to implement the calculation of the determinant of a square matrix. Implement the square matrix as a class Matrix. In the class, implement the following public methods:
